@@ -4,7 +4,8 @@ A Web Developer / Interaction Designer with a focus on making the world of techn
 
 ## Full Stack Software Engineer
 - 🔭 I graduated from Columbia College Chicago as an Interaction Design major with a focus in Web/Mobile Development!
-- 🌱 I’m currently a student from [Lambda Schoo](https://lambdaschool.com/homepagev)
+- 🌱 I'm currently learning Python. 
+- 👯 I’m looking to collaborate with other people in different software development projects.
 - 📬 Reach Me on [LinkedIn](https://www.linkedin.com/in/yongxin-lei/), or vickilei.webdev@gmail.com
 
 
