@@ -9,7 +9,7 @@ A Web Developer with a focus on making the world of technology more accessible. 
 - 📬 Reach Me on [LinkedIn](https://www.linkedin.com/in/yongxin-lei/), or vickilei.webdev@gmail.com
 
 
-## ⚡ Github Stats
-![Vicki Lei's GitHub stats](https://github-readme-stats.vercel.app/api?username=ylei1088&show_icons=true)
+
+
 
 
